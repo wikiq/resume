@@ -4,4 +4,6 @@
 
 取其精华制作成了自己的简历，并向他们致谢！
 
-项目连接：https://github.com/wikiq/resume
+简历链接：https://t.ly/4Ff2
+
+项目链接：https://github.com/wikiq/resume
