@@ -4,7 +4,7 @@ const detail = document.querySelector(".statement .detail")
 const updateTime = document.querySelector("#updateTime")
 
 console.log(updateTime);
-updateTime.innerHTML=`2023-01-08`
+updateTime.innerHTML=`2023-01-06`
 editBtn.onclick = function () {
   if (document.designMode === "off") {
     document.designMode = "on"
